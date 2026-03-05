@@ -13,3 +13,9 @@ env/
 Thumbs.db
 *.swp
 *.swo
+
+# 本地配置（含敏感信息，勿提交）
+cursor_cookies.txt
+
+# 运行生成的用量结果（可选不提交）
+cursor_usage_*.json

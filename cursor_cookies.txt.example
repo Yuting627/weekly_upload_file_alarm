@@ -1,0 +1,3 @@
+# 将本文件复制为 cursor_cookies.txt，并填入从浏览器复制的 Cursor Cookie。
+# 操作：登录 https://cursor.com → F12 开发者工具 → Application → Cookies → cursor.com → 复制整段 Cookie 字符串粘贴到 cursor_cookies.txt（一行即可）。
+# 也可使用环境变量 CURSOR_COOKIES 代替此文件。请勿将 cursor_cookies.txt 提交到 Git。
